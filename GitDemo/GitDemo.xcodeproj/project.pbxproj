@@ -12,6 +12,7 @@
 		188CD2F61F61BBF400B25D4C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188CD2F41F61BBF400B25D4C /* Main.storyboard */; };
 		188CD2F81F61BBF400B25D4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 188CD2F71F61BBF400B25D4C /* Assets.xcassets */; };
 		188CD2FB1F61BBF400B25D4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188CD2F91F61BBF400B25D4C /* LaunchScreen.storyboard */; };
+		188CD3031F61BE3500B25D4C /* mn_usermanual.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 188CD3021F61BE3500B25D4C /* mn_usermanual.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		188CD2F71F61BBF400B25D4C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		188CD2FA1F61BBF400B25D4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		188CD2FC1F61BBF400B25D4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		188CD3021F61BE3500B25D4C /* mn_usermanual.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = mn_usermanual.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		188CD2EF1F61BBF400B25D4C /* GitDemo */ = {
 			isa = PBXGroup;
 			children = (
+				188CD3021F61BE3500B25D4C /* mn_usermanual.pdf */,
 				188CD2F01F61BBF400B25D4C /* AppDelegate.swift */,
 				188CD2F21F61BBF400B25D4C /* ViewController.swift */,
 				188CD2F41F61BBF400B25D4C /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				188CD3031F61BE3500B25D4C /* mn_usermanual.pdf in Resources */,
 				188CD2FB1F61BBF400B25D4C /* LaunchScreen.storyboard in Resources */,
 				188CD2F81F61BBF400B25D4C /* Assets.xcassets in Resources */,
 				188CD2F61F61BBF400B25D4C /* Main.storyboard in Resources */,
