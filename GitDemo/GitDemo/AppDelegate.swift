@@ -8,7 +8,6 @@
 // 1 大声道
 import UIKit
 
-
 //
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
